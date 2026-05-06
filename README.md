@@ -16,12 +16,15 @@ Z X C V    →    A 0 B F
 ```
 
 *br8kout.ch8*
+
 ![br8kout](demo/br8kout.gif)
 
 *flightrunner.ch8*
+
 ![flightrunner](demo/flightrunner.gif)
 
 *rps.ch8*
+
 ![rps](demo/rps.gif)
 
 ## Testing
