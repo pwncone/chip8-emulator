@@ -21,7 +21,7 @@ SDL_Event event = { 0 };
 uint8_t rgba_white[4] = { 255, 255, 255, 255 };
 uint8_t rgba_black[4] = { 0, 0, 0, 255 };
 uint8_t cls_requested = false;
-uint8_t instruction_counter = 0;  // We're running at ~700 instructions per second. 700 / 60 = 12 instructions per timer ticket
+uint8_t instruction_counter = 0;
 
 #define SIZE_SPRITE_GROUPS 5
 
