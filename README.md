@@ -2,6 +2,10 @@
 A rudimentary chip8 emulator (not super-chip or xo-chip).
 Requires SDL3.dll to be in same folder as .exe in order to run
 
+```
+chip8-emulator.exe <rom path>
+```
+
 Keymapping to chip8's 16 keys is the modern standard:
 ```
 Keyboard:       CHIP-8:
@@ -12,13 +16,13 @@ Z X C V    →    A 0 B F
 ```
 
 *br8kout.ch8*
-![br8kout](./br8kout.gif)
+![br8kout](demo/br8kout.gif)
 
 *flightrunner.ch8*
-![flightrunner](./flightrunner.gif)
+![flightrunner](demo/flightrunner.gif)
 
 *rps.ch8*
-![rps](./rps.gif)
+![rps](demo/rps.gif)
 
 ## Testing
 - IBM ROM - https://github.com/loktar00/chip8/blob/master/roms/IBM%20Logo.ch8
